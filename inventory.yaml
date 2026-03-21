@@ -1,0 +1,8 @@
+devices:
+  - name: catalyst8000-devnet
+    ip: devnetsandboxiosxec8k.cisco.com
+    driver: ios
+
+  - name: eve
+    ip: 10.0.0.254
+    driver: junos
