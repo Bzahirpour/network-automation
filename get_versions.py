@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-get_versions.py
-Connects to network devices defined in inventory.yaml and retrieves
-software version information using NAPALM. Outputs results to terminal
-and saves a CSV report.
-"""
 
 import yaml
 import napalm
