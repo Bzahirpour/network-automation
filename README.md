@@ -17,7 +17,7 @@ to a timestamped CSV report.
 
 Clone the repository and set up a virtual environment:
 ```bash
-git clone https://github.com/yourusername/network-automation.git
+git clone https://github.com/bzahirpour/network-automation.git
 cd network-automation
 python3 -m venv venv
 source venv/bin/activate
